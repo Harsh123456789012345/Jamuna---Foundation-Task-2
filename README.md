@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vijay Shikhare Portfolio
 
 Welcome to my personal portfolio! 🚀
@@ -79,3 +80,10 @@ Check out my work and get in touch!
 ---
 
 > Feel free to clone this repo, explore the projects, and connect with me for collaborations or opportunities!  
+=======
+# Jamuna Foundation
+🌳 About the Project
+
+The **Tree Plantation Community Landing Page** is a clean, modern, and eco-themed webpage that highlights the importance of planting trees and protecting the environment.  
+It serves as a platform to spread awareness, showcase activities, and invite volunteers to join our green initiative.
+>>>>>>> da808daca326ba7c1c53384d4e68675c4ca2d366
